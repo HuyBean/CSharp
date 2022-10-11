@@ -1,0 +1,16 @@
+D:\OneDrive - VNU-HCMUS\CODE\CSharp\Var\bin\Debug\net5.0\Var.exe
+D:\OneDrive - VNU-HCMUS\CODE\CSharp\Var\bin\Debug\net5.0\Var.deps.json
+D:\OneDrive - VNU-HCMUS\CODE\CSharp\Var\bin\Debug\net5.0\Var.runtimeconfig.json
+D:\OneDrive - VNU-HCMUS\CODE\CSharp\Var\bin\Debug\net5.0\Var.runtimeconfig.dev.json
+D:\OneDrive - VNU-HCMUS\CODE\CSharp\Var\bin\Debug\net5.0\Var.dll
+D:\OneDrive - VNU-HCMUS\CODE\CSharp\Var\bin\Debug\net5.0\Var.pdb
+D:\OneDrive - VNU-HCMUS\CODE\CSharp\Var\obj\Debug\net5.0\Var.csproj.AssemblyReference.cache
+D:\OneDrive - VNU-HCMUS\CODE\CSharp\Var\obj\Debug\net5.0\Var.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - VNU-HCMUS\CODE\CSharp\Var\obj\Debug\net5.0\Var.AssemblyInfoInputs.cache
+D:\OneDrive - VNU-HCMUS\CODE\CSharp\Var\obj\Debug\net5.0\Var.AssemblyInfo.cs
+D:\OneDrive - VNU-HCMUS\CODE\CSharp\Var\obj\Debug\net5.0\Var.csproj.CoreCompileInputs.cache
+D:\OneDrive - VNU-HCMUS\CODE\CSharp\Var\obj\Debug\net5.0\Var.dll
+D:\OneDrive - VNU-HCMUS\CODE\CSharp\Var\obj\Debug\net5.0\refint\Var.dll
+D:\OneDrive - VNU-HCMUS\CODE\CSharp\Var\obj\Debug\net5.0\Var.pdb
+D:\OneDrive - VNU-HCMUS\CODE\CSharp\Var\obj\Debug\net5.0\Var.genruntimeconfig.cache
+D:\OneDrive - VNU-HCMUS\CODE\CSharp\Var\obj\Debug\net5.0\ref\Var.dll

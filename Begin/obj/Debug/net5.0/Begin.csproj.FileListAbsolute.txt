@@ -1,0 +1,32 @@
+D:\CODE\CSharp\Begin\bin\Debug\net5.0\Begin.exe
+D:\CODE\CSharp\Begin\bin\Debug\net5.0\Begin.deps.json
+D:\CODE\CSharp\Begin\bin\Debug\net5.0\Begin.runtimeconfig.json
+D:\CODE\CSharp\Begin\bin\Debug\net5.0\Begin.runtimeconfig.dev.json
+D:\CODE\CSharp\Begin\bin\Debug\net5.0\Begin.dll
+D:\CODE\CSharp\Begin\bin\Debug\net5.0\Begin.pdb
+D:\CODE\CSharp\Begin\obj\Debug\net5.0\Begin.csproj.AssemblyReference.cache
+D:\CODE\CSharp\Begin\obj\Debug\net5.0\Begin.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\CSharp\Begin\obj\Debug\net5.0\Begin.AssemblyInfoInputs.cache
+D:\CODE\CSharp\Begin\obj\Debug\net5.0\Begin.AssemblyInfo.cs
+D:\CODE\CSharp\Begin\obj\Debug\net5.0\Begin.csproj.CoreCompileInputs.cache
+D:\CODE\CSharp\Begin\obj\Debug\net5.0\Begin.dll
+D:\CODE\CSharp\Begin\obj\Debug\net5.0\refint\Begin.dll
+D:\CODE\CSharp\Begin\obj\Debug\net5.0\Begin.pdb
+D:\CODE\CSharp\Begin\obj\Debug\net5.0\Begin.genruntimeconfig.cache
+D:\CODE\CSharp\Begin\obj\Debug\net5.0\ref\Begin.dll
+D:\OneDrive - VNU-HCMUS\CODE\CSharp\Begin\bin\Debug\net5.0\Begin.exe
+D:\OneDrive - VNU-HCMUS\CODE\CSharp\Begin\bin\Debug\net5.0\Begin.deps.json
+D:\OneDrive - VNU-HCMUS\CODE\CSharp\Begin\bin\Debug\net5.0\Begin.runtimeconfig.json
+D:\OneDrive - VNU-HCMUS\CODE\CSharp\Begin\bin\Debug\net5.0\Begin.runtimeconfig.dev.json
+D:\OneDrive - VNU-HCMUS\CODE\CSharp\Begin\bin\Debug\net5.0\Begin.dll
+D:\OneDrive - VNU-HCMUS\CODE\CSharp\Begin\bin\Debug\net5.0\Begin.pdb
+D:\OneDrive - VNU-HCMUS\CODE\CSharp\Begin\obj\Debug\net5.0\Begin.csproj.AssemblyReference.cache
+D:\OneDrive - VNU-HCMUS\CODE\CSharp\Begin\obj\Debug\net5.0\Begin.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - VNU-HCMUS\CODE\CSharp\Begin\obj\Debug\net5.0\Begin.AssemblyInfoInputs.cache
+D:\OneDrive - VNU-HCMUS\CODE\CSharp\Begin\obj\Debug\net5.0\Begin.AssemblyInfo.cs
+D:\OneDrive - VNU-HCMUS\CODE\CSharp\Begin\obj\Debug\net5.0\Begin.csproj.CoreCompileInputs.cache
+D:\OneDrive - VNU-HCMUS\CODE\CSharp\Begin\obj\Debug\net5.0\Begin.dll
+D:\OneDrive - VNU-HCMUS\CODE\CSharp\Begin\obj\Debug\net5.0\refint\Begin.dll
+D:\OneDrive - VNU-HCMUS\CODE\CSharp\Begin\obj\Debug\net5.0\Begin.pdb
+D:\OneDrive - VNU-HCMUS\CODE\CSharp\Begin\obj\Debug\net5.0\Begin.genruntimeconfig.cache
+D:\OneDrive - VNU-HCMUS\CODE\CSharp\Begin\obj\Debug\net5.0\ref\Begin.dll
