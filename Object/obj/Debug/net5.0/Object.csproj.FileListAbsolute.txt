@@ -1,0 +1,16 @@
+D:\OneDrive - VNU-HCMUS\CODE\CSharp\Object\bin\Debug\net5.0\Object.exe
+D:\OneDrive - VNU-HCMUS\CODE\CSharp\Object\bin\Debug\net5.0\Object.deps.json
+D:\OneDrive - VNU-HCMUS\CODE\CSharp\Object\bin\Debug\net5.0\Object.runtimeconfig.json
+D:\OneDrive - VNU-HCMUS\CODE\CSharp\Object\bin\Debug\net5.0\Object.runtimeconfig.dev.json
+D:\OneDrive - VNU-HCMUS\CODE\CSharp\Object\bin\Debug\net5.0\Object.dll
+D:\OneDrive - VNU-HCMUS\CODE\CSharp\Object\bin\Debug\net5.0\Object.pdb
+D:\OneDrive - VNU-HCMUS\CODE\CSharp\Object\obj\Debug\net5.0\Object.csproj.AssemblyReference.cache
+D:\OneDrive - VNU-HCMUS\CODE\CSharp\Object\obj\Debug\net5.0\Object.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - VNU-HCMUS\CODE\CSharp\Object\obj\Debug\net5.0\Object.AssemblyInfoInputs.cache
+D:\OneDrive - VNU-HCMUS\CODE\CSharp\Object\obj\Debug\net5.0\Object.AssemblyInfo.cs
+D:\OneDrive - VNU-HCMUS\CODE\CSharp\Object\obj\Debug\net5.0\Object.csproj.CoreCompileInputs.cache
+D:\OneDrive - VNU-HCMUS\CODE\CSharp\Object\obj\Debug\net5.0\Object.dll
+D:\OneDrive - VNU-HCMUS\CODE\CSharp\Object\obj\Debug\net5.0\refint\Object.dll
+D:\OneDrive - VNU-HCMUS\CODE\CSharp\Object\obj\Debug\net5.0\Object.pdb
+D:\OneDrive - VNU-HCMUS\CODE\CSharp\Object\obj\Debug\net5.0\Object.genruntimeconfig.cache
+D:\OneDrive - VNU-HCMUS\CODE\CSharp\Object\obj\Debug\net5.0\ref\Object.dll
