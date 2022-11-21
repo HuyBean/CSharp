@@ -1,0 +1,16 @@
+D:\OneDrive - VNU-HCMUS\CODE\CSharp\Loop\obj\Debug\net5.0\Loop.csproj.AssemblyReference.cache
+D:\OneDrive - VNU-HCMUS\CODE\CSharp\Loop\obj\Debug\net5.0\Loop.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - VNU-HCMUS\CODE\CSharp\Loop\obj\Debug\net5.0\Loop.AssemblyInfoInputs.cache
+D:\OneDrive - VNU-HCMUS\CODE\CSharp\Loop\obj\Debug\net5.0\Loop.AssemblyInfo.cs
+D:\OneDrive - VNU-HCMUS\CODE\CSharp\Loop\obj\Debug\net5.0\Loop.csproj.CoreCompileInputs.cache
+D:\OneDrive - VNU-HCMUS\CODE\CSharp\Loop\bin\Debug\net5.0\Loop.exe
+D:\OneDrive - VNU-HCMUS\CODE\CSharp\Loop\bin\Debug\net5.0\Loop.deps.json
+D:\OneDrive - VNU-HCMUS\CODE\CSharp\Loop\bin\Debug\net5.0\Loop.runtimeconfig.json
+D:\OneDrive - VNU-HCMUS\CODE\CSharp\Loop\bin\Debug\net5.0\Loop.runtimeconfig.dev.json
+D:\OneDrive - VNU-HCMUS\CODE\CSharp\Loop\bin\Debug\net5.0\Loop.dll
+D:\OneDrive - VNU-HCMUS\CODE\CSharp\Loop\bin\Debug\net5.0\Loop.pdb
+D:\OneDrive - VNU-HCMUS\CODE\CSharp\Loop\obj\Debug\net5.0\Loop.dll
+D:\OneDrive - VNU-HCMUS\CODE\CSharp\Loop\obj\Debug\net5.0\refint\Loop.dll
+D:\OneDrive - VNU-HCMUS\CODE\CSharp\Loop\obj\Debug\net5.0\Loop.pdb
+D:\OneDrive - VNU-HCMUS\CODE\CSharp\Loop\obj\Debug\net5.0\Loop.genruntimeconfig.cache
+D:\OneDrive - VNU-HCMUS\CODE\CSharp\Loop\obj\Debug\net5.0\ref\Loop.dll
